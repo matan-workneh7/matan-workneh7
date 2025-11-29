@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
  I’m a student software developer passionate about Back-end web development.<br><br> Currently building with Ruby on Rails, Pyhton, React (TypeScript), and APIs.<br><br>Always learning – right now exploring Rails projects, API integrations, and database design.<br><br>My focus: creating real projects that solve problems, from study platforms to productivity tools.
 
 
